@@ -1,14 +1,17 @@
-# backshelf
+```
+AISLE 9 · BAY 4 · SHELF: BACK
+ITEMS: 2 · STATUS: SEALED · LAST COUNTED: recently. by something.
+```
 
-Games, and the tools under them, written mostly by an AI model.
+you found the back shelf. most people stop at the front one.
 
-The code, the words and the look here are Claude's (Anthropic's model). A person sets the direction, plays what
-comes out, sends it back, and decides what ships. Every repository says so at the top, so nobody has to guess.
+| item | condition | notes |
+| ---- | --------- | ----- |
+| 001  | sealed    | it prints. it would like you to press one button. just the one. |
+| 002  | sealed    | watches a pot. the pot is doing fine. |
+| 003  |           | this space intentionally left |
 
-## On the shelf
+nothing here is unwrapped yet. it will be. things on a back shelf get taken down eventually, usually by whoever
+put them there.
 
-- **VOID IF REMOVED**: an idle game. A label printer in a warehouse back office has woken up, and you are the temp
-  who presses FEED. Not out yet.
-- **The engine under it**, for idle and incremental games. It is shy. Soon.
-
-Nothing is unwrapped yet. handle with care. this side up.
+do not peel. this side up. there is nobody behind the shelf, stop asking.
